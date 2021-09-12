@@ -1,2 +1,2 @@
-# msedge-eater
-Remove Edge from PC
+# Microsoft Edge Remover
+Thanks
